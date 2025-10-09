@@ -107,6 +107,9 @@ I am passionate about data and technology, with a special focus on improving sys
 
 ## ✨ Certifications
 
+- [Data Streaming Engineer](https://certificates.confluent.io/fac380be-022c-4c3c-a211-1878e6ca0046) (2025-2027)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/04af6256-495b-4dfb-b38a-ed66f1d0effe/linked_in_profile) (2025-2028)
+- [SnowPro Core Certification](https://achieve.snowflake.com/ebc53e53-e4c8-40e3-9f44-174e7c3bc5b0) (2025-2027)
 - [Databricks Lakehouse Fundamentals](https://credentials.databricks.com/c1e345d4-d200-46cf-ba11-c29b0d7891a1) (2024-2025)
 - [Databricks Platform Administrator](https://credentials.databricks.com/5388a6e6-8ef9-4517-8872-93f3848fdba0#gs.exb22j) (2024-2025)
 - [dbt Fundamentals](https://credentials.getdbt.com/fafb977c-7fae-44e4-9f8c-272ce86fc760) (2024)
