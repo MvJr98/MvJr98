@@ -2,10 +2,11 @@
 
 ## Welcome to my profile. 😁
 
-# 👋 Hello! I'm Mauro Veloso
+### **Data Engineer** 🚀
 
-- 💼 Data Analyst migrating to Data Engineer.
+Sou um profissional focado na construção e manutenção de pipelines de dados (**ETL/ELT**) escaláveis, com experiência em processamento **Batch** e **Streaming**. Atuo na modernização de arquiteturas de dados, transformando pipelines legados em soluções modernas, performáticas e de alto valor para o negócio.
 
+---
 <!--
 <div style="display: inline_block"><br>
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -92,18 +93,6 @@ You can reach out to me through the following platforms:
 Feel free to contact me to discuss projects, ideas, or just to exchange knowledge about programming and technology. Thank you for visiting my profile!
 
 </div>
-
-## 📈 Estatísticas do GitHub
-<div>
-  <a href="https://github.com/MvJr98">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MvJr98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MvJr98&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
-
-## ✨ A Little More About Me
-
-I am passionate about data and technology, with a special focus on improving system performance and creating efficient solutions for ETL processes. I have an analytical mindset and enjoy working in a team, always seeking to learn new tools and improve my skills.
 
 ## ✨ Certifications
 
